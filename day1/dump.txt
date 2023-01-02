@@ -1,0 +1,498 @@
+max cal_val: 55445 at position 1
+number of elves counted = 1, calorie_values = 55445
+max cal_val: 55445 at position 1
+number of elves counted = 2, calorie_values = 54093
+max cal_val: 57505 at position 3
+number of elves counted = 3, calorie_values = 57505
+max cal_val: 57505 at position 3
+number of elves counted = 4, calorie_values = 21479
+max cal_val: 57505 at position 3
+number of elves counted = 5, calorie_values = 43973
+max cal_val: 57505 at position 3
+number of elves counted = 6, calorie_values = 53826
+max cal_val: 57505 at position 3
+number of elves counted = 7, calorie_values = 50741
+max cal_val: 57505 at position 3
+number of elves counted = 8, calorie_values = 48926
+max cal_val: 57505 at position 3
+number of elves counted = 9, calorie_values = 34342
+max cal_val: 57505 at position 3
+number of elves counted = 10, calorie_values = 53228
+max cal_val: 57505 at position 3
+number of elves counted = 11, calorie_values = 47602
+max cal_val: 57505 at position 3
+number of elves counted = 12, calorie_values = 49561
+max cal_val: 57505 at position 3
+number of elves counted = 13, calorie_values = 50038
+max cal_val: 57505 at position 3
+number of elves counted = 14, calorie_values = 37169
+max cal_val: 64428 at position 15
+number of elves counted = 15, calorie_values = 64428
+max cal_val: 64428 at position 15
+number of elves counted = 16, calorie_values = 43057
+max cal_val: 64428 at position 15
+number of elves counted = 17, calorie_values = 36162
+max cal_val: 64428 at position 15
+number of elves counted = 18, calorie_values = 56667
+max cal_val: 64428 at position 15
+number of elves counted = 19, calorie_values = 55820
+max cal_val: 64428 at position 15
+number of elves counted = 20, calorie_values = 58343
+max cal_val: 64428 at position 15
+number of elves counted = 21, calorie_values = 46569
+max cal_val: 64428 at position 15
+number of elves counted = 22, calorie_values = 55115
+max cal_val: 64428 at position 15
+number of elves counted = 23, calorie_values = 16448
+max cal_val: 64428 at position 15
+number of elves counted = 24, calorie_values = 48932
+max cal_val: 64428 at position 15
+number of elves counted = 25, calorie_values = 49241
+max cal_val: 64428 at position 15
+number of elves counted = 26, calorie_values = 55803
+max cal_val: 64428 at position 15
+number of elves counted = 27, calorie_values = 47985
+max cal_val: 64428 at position 15
+number of elves counted = 28, calorie_values = 56258
+max cal_val: 64428 at position 15
+number of elves counted = 29, calorie_values = 23258
+max cal_val: 64428 at position 15
+number of elves counted = 30, calorie_values = 53757
+max cal_val: 64428 at position 15
+number of elves counted = 31, calorie_values = 53778
+max cal_val: 64428 at position 15
+number of elves counted = 32, calorie_values = 58293
+max cal_val: 64428 at position 15
+number of elves counted = 33, calorie_values = 59031
+max cal_val: 64428 at position 15
+number of elves counted = 34, calorie_values = 30870
+max cal_val: 64428 at position 15
+number of elves counted = 35, calorie_values = 60057
+max cal_val: 64428 at position 15
+number of elves counted = 36, calorie_values = 57731
+max cal_val: 64428 at position 15
+number of elves counted = 37, calorie_values = 34529
+max cal_val: 64428 at position 15
+number of elves counted = 38, calorie_values = 50158
+max cal_val: 64428 at position 15
+number of elves counted = 39, calorie_values = 46725
+max cal_val: 64428 at position 15
+number of elves counted = 40, calorie_values = 59201
+max cal_val: 64428 at position 15
+number of elves counted = 41, calorie_values = 62077
+max cal_val: 64428 at position 15
+number of elves counted = 42, calorie_values = 52616
+max cal_val: 64428 at position 15
+number of elves counted = 43, calorie_values = 51576
+max cal_val: 66601 at position 44
+number of elves counted = 44, calorie_values = 66601
+max cal_val: 66601 at position 44
+number of elves counted = 45, calorie_values = 52584
+max cal_val: 66601 at position 44
+number of elves counted = 46, calorie_values = 41391
+max cal_val: 66601 at position 44
+number of elves counted = 47, calorie_values = 44890
+max cal_val: 66601 at position 44
+number of elves counted = 48, calorie_values = 46804
+max cal_val: 66601 at position 44
+number of elves counted = 49, calorie_values = 61679
+max cal_val: 66601 at position 44
+number of elves counted = 50, calorie_values = 51267
+max cal_val: 66601 at position 44
+number of elves counted = 51, calorie_values = 50983
+max cal_val: 66601 at position 44
+number of elves counted = 52, calorie_values = 46986
+max cal_val: 66601 at position 44
+number of elves counted = 53, calorie_values = 52542
+max cal_val: 66601 at position 44
+number of elves counted = 54, calorie_values = 58347
+max cal_val: 66601 at position 44
+number of elves counted = 55, calorie_values = 31039
+max cal_val: 66601 at position 44
+number of elves counted = 56, calorie_values = 58076
+max cal_val: 66601 at position 44
+number of elves counted = 57, calorie_values = 58667
+max cal_val: 66601 at position 44
+number of elves counted = 58, calorie_values = 22562
+max cal_val: 66601 at position 44
+number of elves counted = 59, calorie_values = 45474
+max cal_val: 66601 at position 44
+number of elves counted = 60, calorie_values = 42288
+max cal_val: 66601 at position 44
+number of elves counted = 61, calorie_values = 53026
+max cal_val: 66601 at position 44
+number of elves counted = 62, calorie_values = 40755
+max cal_val: 66601 at position 44
+number of elves counted = 63, calorie_values = 47465
+max cal_val: 66601 at position 44
+number of elves counted = 64, calorie_values = 48287
+max cal_val: 66601 at position 44
+number of elves counted = 65, calorie_values = 52297
+max cal_val: 66601 at position 44
+number of elves counted = 66, calorie_values = 61266
+max cal_val: 66601 at position 44
+number of elves counted = 67, calorie_values = 31705
+max cal_val: 66601 at position 44
+number of elves counted = 68, calorie_values = 40310
+max cal_val: 66601 at position 44
+number of elves counted = 69, calorie_values = 50682
+max cal_val: 66601 at position 44
+number of elves counted = 70, calorie_values = 44617
+max cal_val: 66601 at position 44
+number of elves counted = 71, calorie_values = 40821
+max cal_val: 66601 at position 44
+number of elves counted = 72, calorie_values = 36771
+max cal_val: 66601 at position 44
+number of elves counted = 73, calorie_values = 36642
+max cal_val: 66601 at position 44
+number of elves counted = 74, calorie_values = 43275
+max cal_val: 66601 at position 44
+number of elves counted = 75, calorie_values = 65703
+max cal_val: 66601 at position 44
+number of elves counted = 76, calorie_values = 57301
+max cal_val: 66601 at position 44
+number of elves counted = 77, calorie_values = 50819
+max cal_val: 66601 at position 44
+number of elves counted = 78, calorie_values = 37954
+max cal_val: 66601 at position 44
+number of elves counted = 79, calorie_values = 41551
+max cal_val: 66601 at position 44
+number of elves counted = 80, calorie_values = 57706
+max cal_val: 66601 at position 44
+number of elves counted = 81, calorie_values = 33200
+max cal_val: 66601 at position 44
+number of elves counted = 82, calorie_values = 44275
+max cal_val: 66601 at position 44
+number of elves counted = 83, calorie_values = 44845
+max cal_val: 66601 at position 44
+number of elves counted = 84, calorie_values = 55836
+max cal_val: 66601 at position 44
+number of elves counted = 85, calorie_values = 52432
+max cal_val: 66601 at position 44
+number of elves counted = 86, calorie_values = 16063
+max cal_val: 66601 at position 44
+number of elves counted = 87, calorie_values = 45857
+max cal_val: 66601 at position 44
+number of elves counted = 88, calorie_values = 61526
+max cal_val: 66601 at position 44
+number of elves counted = 89, calorie_values = 64140
+max cal_val: 66601 at position 44
+number of elves counted = 90, calorie_values = 50507
+max cal_val: 66601 at position 44
+number of elves counted = 91, calorie_values = 45460
+max cal_val: 66601 at position 44
+number of elves counted = 92, calorie_values = 47608
+max cal_val: 66601 at position 44
+number of elves counted = 93, calorie_values = 49586
+max cal_val: 66601 at position 44
+number of elves counted = 94, calorie_values = 40546
+max cal_val: 66601 at position 44
+number of elves counted = 95, calorie_values = 64761
+max cal_val: 66601 at position 44
+number of elves counted = 96, calorie_values = 58769
+max cal_val: 66601 at position 44
+number of elves counted = 97, calorie_values = 32886
+max cal_val: 66601 at position 44
+number of elves counted = 98, calorie_values = 64480
+max cal_val: 66601 at position 44
+number of elves counted = 99, calorie_values = 52517
+max cal_val: 66601 at position 44
+number of elves counted = 100, calorie_values = 50625
+max cal_val: 66601 at position 44
+number of elves counted = 101, calorie_values = 52870
+max cal_val: 66601 at position 44
+number of elves counted = 102, calorie_values = 54805
+max cal_val: 66601 at position 44
+number of elves counted = 103, calorie_values = 46391
+max cal_val: 66601 at position 44
+number of elves counted = 104, calorie_values = 42937
+max cal_val: 66601 at position 44
+number of elves counted = 105, calorie_values = 57456
+max cal_val: 66601 at position 44
+number of elves counted = 106, calorie_values = 58783
+max cal_val: 66601 at position 44
+number of elves counted = 107, calorie_values = 54180
+max cal_val: 66601 at position 44
+number of elves counted = 108, calorie_values = 56173
+max cal_val: 66601 at position 44
+number of elves counted = 109, calorie_values = 45375
+max cal_val: 66601 at position 44
+number of elves counted = 110, calorie_values = 55561
+max cal_val: 66601 at position 44
+number of elves counted = 111, calorie_values = 19632
+max cal_val: 66601 at position 44
+number of elves counted = 112, calorie_values = 52329
+max cal_val: 66601 at position 44
+number of elves counted = 113, calorie_values = 52238
+max cal_val: 66601 at position 44
+number of elves counted = 114, calorie_values = 46658
+max cal_val: 66601 at position 44
+number of elves counted = 115, calorie_values = 43733
+max cal_val: 66601 at position 44
+number of elves counted = 116, calorie_values = 59612
+max cal_val: 66601 at position 44
+number of elves counted = 117, calorie_values = 18402
+max cal_val: 66601 at position 44
+number of elves counted = 118, calorie_values = 54322
+max cal_val: 66601 at position 44
+number of elves counted = 119, calorie_values = 58596
+max cal_val: 66601 at position 44
+number of elves counted = 120, calorie_values = 50697
+max cal_val: 66601 at position 44
+number of elves counted = 121, calorie_values = 38282
+max cal_val: 66601 at position 44
+number of elves counted = 122, calorie_values = 60630
+max cal_val: 66601 at position 44
+number of elves counted = 123, calorie_values = 59476
+max cal_val: 66601 at position 44
+number of elves counted = 124, calorie_values = 31568
+max cal_val: 66601 at position 44
+number of elves counted = 125, calorie_values = 28170
+max cal_val: 66601 at position 44
+number of elves counted = 126, calorie_values = 47284
+max cal_val: 66601 at position 44
+number of elves counted = 127, calorie_values = 49737
+max cal_val: 66601 at position 44
+number of elves counted = 128, calorie_values = 49819
+max cal_val: 66601 at position 44
+number of elves counted = 129, calorie_values = 46558
+max cal_val: 66601 at position 44
+number of elves counted = 130, calorie_values = 38462
+max cal_val: 66601 at position 44
+number of elves counted = 131, calorie_values = 62571
+max cal_val: 66601 at position 44
+number of elves counted = 132, calorie_values = 57613
+max cal_val: 66601 at position 44
+number of elves counted = 133, calorie_values = 51280
+max cal_val: 66601 at position 44
+number of elves counted = 134, calorie_values = 46017
+max cal_val: 66601 at position 44
+number of elves counted = 135, calorie_values = 30373
+max cal_val: 66601 at position 44
+number of elves counted = 136, calorie_values = 51880
+max cal_val: 66601 at position 44
+number of elves counted = 137, calorie_values = 51200
+max cal_val: 66601 at position 44
+number of elves counted = 138, calorie_values = 51892
+max cal_val: 66601 at position 44
+number of elves counted = 139, calorie_values = 63269
+max cal_val: 66601 at position 44
+number of elves counted = 140, calorie_values = 38919
+max cal_val: 66601 at position 44
+number of elves counted = 141, calorie_values = 27222
+max cal_val: 66601 at position 44
+number of elves counted = 142, calorie_values = 44388
+max cal_val: 66601 at position 44
+number of elves counted = 143, calorie_values = 50918
+max cal_val: 66601 at position 44
+number of elves counted = 144, calorie_values = 35954
+max cal_val: 66601 at position 44
+number of elves counted = 145, calorie_values = 59325
+max cal_val: 66601 at position 44
+number of elves counted = 146, calorie_values = 35881
+max cal_val: 66601 at position 44
+number of elves counted = 147, calorie_values = 38719
+max cal_val: 66601 at position 44
+number of elves counted = 148, calorie_values = 66499
+max cal_val: 66601 at position 44
+number of elves counted = 149, calorie_values = 55293
+max cal_val: 66601 at position 44
+number of elves counted = 150, calorie_values = 48329
+max cal_val: 66601 at position 44
+number of elves counted = 151, calorie_values = 50856
+max cal_val: 66601 at position 44
+number of elves counted = 152, calorie_values = 48107
+max cal_val: 66601 at position 44
+number of elves counted = 153, calorie_values = 44492
+max cal_val: 66601 at position 44
+number of elves counted = 154, calorie_values = 49358
+max cal_val: 66601 at position 44
+number of elves counted = 155, calorie_values = 50472
+max cal_val: 66601 at position 44
+number of elves counted = 156, calorie_values = 41319
+max cal_val: 66601 at position 44
+number of elves counted = 157, calorie_values = 28215
+max cal_val: 66601 at position 44
+number of elves counted = 158, calorie_values = 52604
+max cal_val: 66601 at position 44
+number of elves counted = 159, calorie_values = 50091
+max cal_val: 66601 at position 44
+number of elves counted = 160, calorie_values = 49455
+max cal_val: 66601 at position 44
+number of elves counted = 161, calorie_values = 44564
+max cal_val: 66601 at position 44
+number of elves counted = 162, calorie_values = 55489
+max cal_val: 66601 at position 44
+number of elves counted = 163, calorie_values = 55195
+max cal_val: 66601 at position 44
+number of elves counted = 164, calorie_values = 37900
+max cal_val: 66601 at position 44
+number of elves counted = 165, calorie_values = 62038
+max cal_val: 66601 at position 44
+number of elves counted = 166, calorie_values = 55623
+max cal_val: 66601 at position 44
+number of elves counted = 167, calorie_values = 51596
+max cal_val: 66601 at position 44
+number of elves counted = 168, calorie_values = 45685
+max cal_val: 66601 at position 44
+number of elves counted = 169, calorie_values = 44049
+max cal_val: 66601 at position 44
+number of elves counted = 170, calorie_values = 56336
+max cal_val: 66601 at position 44
+number of elves counted = 171, calorie_values = 54017
+max cal_val: 66601 at position 44
+number of elves counted = 172, calorie_values = 53841
+max cal_val: 66601 at position 44
+number of elves counted = 173, calorie_values = 30382
+max cal_val: 66601 at position 44
+number of elves counted = 174, calorie_values = 9354
+max cal_val: 66601 at position 44
+number of elves counted = 175, calorie_values = 40545
+max cal_val: 66601 at position 44
+number of elves counted = 176, calorie_values = 60314
+max cal_val: 66601 at position 44
+number of elves counted = 177, calorie_values = 56072
+max cal_val: 66601 at position 44
+number of elves counted = 178, calorie_values = 20837
+max cal_val: 66601 at position 44
+number of elves counted = 179, calorie_values = 45132
+max cal_val: 66601 at position 44
+number of elves counted = 180, calorie_values = 48121
+max cal_val: 66601 at position 44
+number of elves counted = 181, calorie_values = 41043
+max cal_val: 66601 at position 44
+number of elves counted = 182, calorie_values = 63919
+max cal_val: 66601 at position 44
+number of elves counted = 183, calorie_values = 57216
+max cal_val: 66601 at position 44
+number of elves counted = 184, calorie_values = 44627
+max cal_val: 66601 at position 44
+number of elves counted = 185, calorie_values = 55166
+max cal_val: 66601 at position 44
+number of elves counted = 186, calorie_values = 38008
+max cal_val: 66601 at position 44
+number of elves counted = 187, calorie_values = 50502
+max cal_val: 66601 at position 44
+number of elves counted = 188, calorie_values = 40542
+max cal_val: 67016 at position 189
+number of elves counted = 189, calorie_values = 67016
+max cal_val: 67016 at position 189
+number of elves counted = 190, calorie_values = 43144
+max cal_val: 67016 at position 189
+number of elves counted = 191, calorie_values = 47938
+max cal_val: 67016 at position 189
+number of elves counted = 192, calorie_values = 51416
+max cal_val: 67016 at position 189
+number of elves counted = 193, calorie_values = 48353
+max cal_val: 67016 at position 189
+number of elves counted = 194, calorie_values = 61384
+max cal_val: 67016 at position 189
+number of elves counted = 195, calorie_values = 46950
+max cal_val: 67016 at position 189
+number of elves counted = 196, calorie_values = 41046
+max cal_val: 67016 at position 189
+number of elves counted = 197, calorie_values = 39530
+max cal_val: 67016 at position 189
+number of elves counted = 198, calorie_values = 42701
+max cal_val: 67016 at position 189
+number of elves counted = 199, calorie_values = 36389
+max cal_val: 67016 at position 189
+number of elves counted = 200, calorie_values = 55026
+max cal_val: 67016 at position 189
+number of elves counted = 201, calorie_values = 64589
+max cal_val: 67016 at position 189
+number of elves counted = 202, calorie_values = 34665
+max cal_val: 67016 at position 189
+number of elves counted = 203, calorie_values = 50362
+max cal_val: 67016 at position 189
+number of elves counted = 204, calorie_values = 26181
+max cal_val: 67016 at position 189
+number of elves counted = 205, calorie_values = 30865
+max cal_val: 67016 at position 189
+number of elves counted = 206, calorie_values = 34161
+max cal_val: 67016 at position 189
+number of elves counted = 207, calorie_values = 50157
+max cal_val: 67016 at position 189
+number of elves counted = 208, calorie_values = 60033
+max cal_val: 67016 at position 189
+number of elves counted = 209, calorie_values = 61907
+max cal_val: 67016 at position 189
+number of elves counted = 210, calorie_values = 47475
+max cal_val: 67016 at position 189
+number of elves counted = 211, calorie_values = 37178
+max cal_val: 67016 at position 189
+number of elves counted = 212, calorie_values = 53465
+max cal_val: 67016 at position 189
+number of elves counted = 213, calorie_values = 46067
+max cal_val: 67016 at position 189
+number of elves counted = 214, calorie_values = 30502
+max cal_val: 67016 at position 189
+number of elves counted = 215, calorie_values = 48177
+max cal_val: 67016 at position 189
+number of elves counted = 216, calorie_values = 50970
+max cal_val: 67016 at position 189
+number of elves counted = 217, calorie_values = 12551
+max cal_val: 67016 at position 189
+number of elves counted = 218, calorie_values = 39135
+max cal_val: 67016 at position 189
+number of elves counted = 219, calorie_values = 55918
+max cal_val: 67016 at position 189
+number of elves counted = 220, calorie_values = 50184
+max cal_val: 67016 at position 189
+number of elves counted = 221, calorie_values = 49917
+max cal_val: 67016 at position 189
+number of elves counted = 222, calorie_values = 38890
+max cal_val: 67016 at position 189
+number of elves counted = 223, calorie_values = 48069
+max cal_val: 67016 at position 189
+number of elves counted = 224, calorie_values = 47797
+max cal_val: 67016 at position 189
+number of elves counted = 225, calorie_values = 26138
+max cal_val: 67016 at position 189
+number of elves counted = 226, calorie_values = 45070
+max cal_val: 67016 at position 189
+number of elves counted = 227, calorie_values = 48272
+max cal_val: 67016 at position 189
+number of elves counted = 228, calorie_values = 32493
+max cal_val: 67016 at position 189
+number of elves counted = 229, calorie_values = 19936
+max cal_val: 67016 at position 189
+number of elves counted = 230, calorie_values = 33069
+max cal_val: 67016 at position 189
+number of elves counted = 231, calorie_values = 46258
+max cal_val: 67016 at position 189
+number of elves counted = 232, calorie_values = 44460
+max cal_val: 67016 at position 189
+number of elves counted = 233, calorie_values = 48745
+max cal_val: 67016 at position 189
+number of elves counted = 234, calorie_values = 36412
+max cal_val: 67016 at position 189
+number of elves counted = 235, calorie_values = 38938
+max cal_val: 67016 at position 189
+number of elves counted = 236, calorie_values = 55615
+max cal_val: 67016 at position 189
+number of elves counted = 237, calorie_values = 50650
+max cal_val: 67016 at position 189
+number of elves counted = 238, calorie_values = 53399
+max cal_val: 67016 at position 189
+number of elves counted = 239, calorie_values = 64945
+max cal_val: 67016 at position 189
+number of elves counted = 240, calorie_values = 51551
+max cal_val: 67016 at position 189
+number of elves counted = 241, calorie_values = 46503
+max cal_val: 67016 at position 189
+number of elves counted = 242, calorie_values = 45070
+max cal_val: 67016 at position 189
+number of elves counted = 243, calorie_values = 56089
+max cal_val: 67016 at position 189
+number of elves counted = 244, calorie_values = 50223
+max cal_val: 67016 at position 189
+number of elves counted = 245, calorie_values = 42026
+max cal_val: 67016 at position 189
+number of elves counted = 246, calorie_values = 38872
+max cal_val: 67016 at position 189
+number of elves counted = 247, calorie_values = 50832
+max cal_val: 67016 at position 189
+number of elves counted = 248, calorie_values = 39717
+the elf with the most calories is in position 189!
+With 67016 calories!
