@@ -2,7 +2,7 @@ use std::fs;
 
 fn main() {
     let mut count = 0;
-    let input = fs::read_to_string("input2.txt").unwrap();
+    let input = fs::read_to_string("input.txt").unwrap();
     for line in input.lines() {
         let values = parse_line(line);
         if fully_contain(values) == true {
@@ -24,18 +24,15 @@ fn parse_line(val: &str) -> (i32, i32, i32, i32) {
 }
 
 fn fully_contain(values: (i32, i32, i32, i32)) -> bool {
-    if values.0 > values.3 {
-        return true;
-    }
-    if values.2 > values.1 {
-        return true;
-    }
-    if values.3 < values.0 {
-        return true;
-    }
-    if values.1 > values.2 {
-        return true;
-    }
-    if values.
-    false
+    let bot_lowside = values.0;
+    let top_lowside = values.1;
+    let bot_highside = values.2;
+    let top_highside = values.3;
+    let lowside: Vec<i32> = (bot_lowside..=top_lowside).collect();
+    let highside: Vec<i32> = (bot_highside..=top_highside).collect();
+
+    let high_contains = lowside.iter().any(|&x| highside.contains(&x));
+    let low_contains = highside.iter().any(|&x| lowside.contains(&x));
+
+    low_contains | high_contains
 }
